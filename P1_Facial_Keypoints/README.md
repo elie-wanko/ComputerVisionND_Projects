@@ -90,4 +90,4 @@ jupyter notebook
 
 3. Once you open any of the project notebooks, make sure you are in the correct `cv-nd` environment by clicking `Kernel > Change Kernel > cv-nd`.
 
-LICENSE: This project is licensed under the terms of the MIT license.
+**LICENSE:** This project is licensed under the terms of the MIT license.
